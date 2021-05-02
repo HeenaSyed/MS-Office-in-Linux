@@ -1,6 +1,6 @@
 # MS-Office-in-Linux
 
-- Open Terminal and use the following line of code to update the system:
+- Open **Terminal** and use the following line of code to update the system:
   
   sudo apt upgrade
 

@@ -1,0 +1,7 @@
+sudo apt upgrade
+sudo apt-get install playonlinux winbind -y
+sudo apt-get install winbind
+sudo apt install wine64 wine32
+sudo apt-get install curl
+
+
